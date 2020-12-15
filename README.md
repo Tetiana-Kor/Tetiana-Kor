@@ -24,5 +24,3 @@ Hi everyone, my name's Tetiana 👋
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tetiana-Kor&theme=buefy&show_icons=true)
-
-![Profile views](https://gpvc.arturio.dev/Tetiana-Kor)
