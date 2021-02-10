@@ -1,6 +1,6 @@
 Hi everyone, my name's Tetiana 👋
 
-- 🌱 I’m currently studying and I'm learning React;
+- 🌱 I’m currently studying and I'm learning Node.js;
 
 - 🏋️ Workout everyday!
 
